@@ -1,0 +1,15 @@
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\obj\Debug\autoclick_tmt.csproj.AssemblyReference.cache
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\obj\Debug\App.g.cs
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\obj\Debug\autoclick_tmt_MarkupCompile.cache
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\obj\Debug\autoclick_tmt_MarkupCompile.lref
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\obj\Debug\Frm\FrmClick.g.cs
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\obj\Debug\Frm\FrmClick.baml
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\obj\Debug\autoclick_tmt.g.resources
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\obj\Debug\autoclick_tmt.Properties.Resources.resources
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\obj\Debug\autoclick_tmt.csproj.GenerateResource.cache
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\obj\Debug\autoclick_tmt.csproj.CoreCompileInputs.cache
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\obj\Debug\autoclick_tmt.exe
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\obj\Debug\autoclick_tmt.pdb
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\autoclick_tmt.exe.config
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\autoclick_tmt.exe
+D:\csharpslt\autoclick_tmt\autoclick_tmt\autoclick_tmt\autoclick_tmt.pdb

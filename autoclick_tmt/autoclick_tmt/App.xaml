@@ -1,0 +1,9 @@
+﻿<Application x:Class="autoclick_tmt.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:autoclick_tmt"
+             StartupUri="Frm\FrmClick.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
